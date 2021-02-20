@@ -1,0 +1,44 @@
+@font-face{
+	font-family: 'telegraf';
+	src: url('telegraf-regular-webfont.woff') format('woff'),
+		url('telegraf-regular-webfont.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face{
+	font-family: 'formula';
+	src: url('formulacondensed-bold-webfont.woff') format('woff'),
+		url('formulacondensed-bold-webfont.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+}
+h1{
+	font-family: 'formula';
+	font-size: 90px;
+	max-width: 900px;
+}
+h2{
+	font-family: 'formula';
+	font-size: 90px;
+}
+p{
+	font-family: 'telegraf';
+	font-size: 20px;
+	line-height: 140%;
+	max-width: 675px;
+}
+.one{
+	background-color: #FF0000;
+}
+.two{
+	background-color: #ADD8E6;
+}
+.three{
+	background-color: #FFA800;
+}
+.four{
+	background-color: #F3E2E2;
+}
+.five{
+	background-color: #EE9ACC;
+}
