@@ -1,31 +1,54 @@
 @font-face{
-	font-family: 'telegraf';
-	src: url('telegraf-regular-webfont.woff') format('woff'),
-		url('telegraf-regular-webfont.woff2') format('woff2');
+	font-family: 'formula';
+	src: url('formula/formulacondensed-bold-webfont.woff') format('woff'),
+		url('formulacondensed-bold-webfont.woff2') format('woff2');
 	font-weight: normal;
 	font-style: normal;
-}
-@font-face{
-	font-family: 'formula';
-	src: url('formulacondensed-bold-webfont.woff') format('woff'),
-		url('formulacondensed-bold-webfont.woff2') format('woff2');
+}@font-face{
+	font-family: 'telegraf';
+	src: url('telegraf/telegraf-regular-webfont.woff') format('woff'),
+		url('telegraf-regular-webfont.woff2') format('woff2');
 	font-weight: normal;
 	font-style: normal;
 }
 h1{
 	font-family: 'formula';
-	font-size: 90px;
-	max-width: 900px;
+	font-size: 140px;
+	max-width: 1000px;
 }
 h2{
 	font-family: 'formula';
-	font-size: 90px;
+	font-size: 140px;
 }
 p{
 	font-family: 'telegraf';
-	font-size: 20px;
+	font-size: 25px;
 	line-height: 140%;
-	max-width: 675px;
+	max-width: 900px;
+}
+#By{
+	padding-top: 150px;
+	padding-left: 80px;
+ 	transform: rotate(20deg);
+}
+#title{
+	padding-top: 200px;
+	padding-left: 380px;
+ 	transform: rotate(-23deg);
+}
+#The{
+	padding-left: 380px;
+ 	transform: rotate(-23deg);
+}
+#Like{
+	padding-top: 400px;
+	padding-left: 180px;
+ 	transform: rotate(10deg);
+}
+#ONE{
+	padding-top: 100px;
+	padding-left: 900px;
+	transform: rotate(-30deg);
 }
 .one{
 	background-color: #FF0000;
