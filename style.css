@@ -18,6 +18,8 @@ h1{
 	line-height: 105%;
 }
 a{
+	color: black;
+	text-decoration: none;
 	font-family: 'formula';
 	font-size: 140px;
 }
