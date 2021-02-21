@@ -15,9 +15,9 @@ h1{
 	font-family: 'formula';
 	font-size: 140px;
 	max-width: 1000px;
-	line-height: 98%;
+	line-height: 105%;
 }
-h2{
+a{
 	font-family: 'formula';
 	font-size: 140px;
 }
@@ -25,12 +25,12 @@ p{
 	font-family: 'telegraf';
 	font-size: 25px;
 	line-height: 140%;
-	max-width: 900px;
+	max-width: 845px;
 }
 #By{
-	padding-top: 150px;
-	padding-left: 80px;
- 	transform: rotate(20deg);
+	padding-top: 50px;
+	padding-left: 100px;
+ 	transform: rotate(15deg);
 }
 #title{
 	padding-top: 200px;
@@ -50,6 +50,82 @@ p{
 	padding-top: 100px;
 	padding-left: 900px;
 	transform: rotate(-30deg);
+}
+#lib{
+	padding-left: 700px;
+	padding-top: 450px;
+	transform: rotate(23deg);
+}
+#ortho{
+	padding-left: 200px;
+	padding-top: -10px;
+	transform: rotate(-23deg);
+}
+#long{
+	padding-left: 700px;
+	padding-top: 500px;
+	transform: rotate(15deg);
+}
+#deux{
+	padding-left: 100px;
+	transform: rotate(-17deg)
+}
+#year{
+	padding-left: 100px;
+	padding-top: 100px;
+	transform: rotate(-6deg);
+}
+#proclaim{
+	padding-left: 450px;
+	padding-top: 500px;
+	transform: rotate(30deg);
+}
+#hope{
+	padding-left: 550px;
+	transform: rotate(-12deg)
+}
+#un{
+	padding-left: 150px;
+	transform: rotate(6deg);
+}
+#natural{
+	padding-top: 500px;
+	padding-left: 200px;
+	transform: rotate(-13deg);
+}
+#inverse{
+	padding-left: 250px;
+	margin-top: -60px;
+	transform: rotate(6deg);
+}
+#superstition{
+	padding-left: 160px;
+	margin-top: -170px;
+	transform: rotate(-13deg);
+}
+#trois{
+	padding-left: 700px;
+	transform: rotate(20deg);
+}
+#combine{
+	padding-left: 500px;
+	padding-top: 75px;
+	transform: rotate(56deg);
+}
+#task{
+	padding-left: 350px;
+	padding-top: 30px;
+	transform: rotate(-15deg);
+}
+#written{
+	padding-left: 150px;
+	padding-top: 300px;
+	transform: rotate(30deg);
+}
+#quatre{
+	padding-left: 870px;
+	padding-top: 200px;
+	transform: rotate(-12deg);
 }
 .one{
 	background-color: #FF0000;
