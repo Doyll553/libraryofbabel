@@ -150,3 +150,17 @@ p{
 .five{
 	background-color: #EE9ACC;
 }
+@media screen and (max-width: 768px) {
+	p{
+		font-size: 12px;
+		max-width: 600px;
+	}
+	h1{
+		font-size: 30px;
+		max-width: 500px;
+	}
+	a{
+		font-size: 100px;
+	}
+
+}
