@@ -188,7 +188,7 @@ p{
 
 	}
 	#title{
-		padding-top: 20px;
+		padding-top: 40px;
 		padding-left: 30px;
 	}
 	#By{
@@ -198,9 +198,10 @@ p{
 	#The{
 		padding-left: 70px;
 		margin-top: -30px; 
+		transform: rotate(-9deg);
 	}
 	#Like{
-		padding-left: 60px;
+		padding-left: 70px;
 	}
 
 }
