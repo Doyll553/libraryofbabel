@@ -46,6 +46,21 @@ p{
 	max-width: 845px;
 	min-width: 845px;
 }
+#one{
+	background-image: url("images/exclude.png");
+	z-index: -10;
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size: 100vw 100vh;
+  	background-color: #FF0000;
+}
+.two{
+	background-image: url("images/subtract.png");
+	z-index: -10;
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size: 100vw 100vh;
+}
 #By{
 	padding-top: 50px;
 	padding-left: 100px;
@@ -170,12 +185,11 @@ p{
 		position: absolute;
 	}
 	p{
-		font-size: 12px;
-		max-width: 200px;
-		min-width: 300px
+		font-size: 14px;
+		min-width: 400px;
 	}
 	h1{
-		font-size: 30px;
+		font-size: 50px;
 		max-width: 500px;
 	}
 	a{
@@ -188,8 +202,8 @@ p{
 
 	}
 	#title{
-		padding-top: 40px;
-		padding-left: 30px;
+		padding-top: 80px;
+		padding-left: 100px;
 	}
 	#By{
 		padding-top: 100px;
