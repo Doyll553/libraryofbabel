@@ -66,6 +66,9 @@ p{
 	background-repeat: no-repeat;
   	background-attachment: fixed;
   	background-size: 100vw 100vh;
+  	-webkit-background-size:100%;
+	-moz-background-size:100%;
+	-o-background-size:100%;
 }
 .three{
 	background-image: url("images/rectangle.png");
@@ -75,7 +78,7 @@ p{
   	background-size: 100vw 100vh;
 }
 .four{
-	background-image: url("images/t2.png");
+	background-image: url("images/exclude.png");
 	z-index: -10;
 	background-repeat: no-repeat;
   	background-attachment: fixed;
