@@ -53,9 +53,33 @@ p{
   	background-attachment: fixed;
   	background-size: 100vw 100vh;
   	background-color: #FF0000;
+  	-webkit-background-size:100%;
+	-moz-background-size:100%;
+	-o-background-size:100%;
 }
 .two{
 	background-image: url("images/subtract.png");
+	z-index: -10;
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size: 100vw 100vh;
+}
+.three{
+	background-image: url("images/rectangle.png");
+	z-index: -10;
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size: 100vw 100vh;
+}
+.four{
+	background-image: url("images/circle.png");
+	z-index: -10;
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size: 100vw 100vh;
+}
+.five{
+	background-image: url("images/poly.png");
 	z-index: -10;
 	background-repeat: no-repeat;
   	background-attachment: fixed;
