@@ -249,21 +249,85 @@ p{
 
 	}
 	#title{
-		padding-top: 80px;
+		padding-top: 30px;
 		padding-left: 100px;
+		transform: rotate(-9deg);
 	}
 	#By{
-		padding-top: 200px;
+		padding-top: 100px;
 		padding-left:20px;
 	}
 	#The{
 		padding-left: 30px;
-		margin-top: -30px; 
+		margin-top: -160px; 
 		transform: rotate(-9deg);
 	}
 	#Like{
 		padding-left: 70px;
+		padding-top: 200px;
 	}
+	#lib{
+		padding-left: 80px;
+		padding-top: 450px;
+		transform: rotate(23deg);
+	}
+	#ortho{
+		padding-left: 60px;
+		}
+	#long{
+		padding-left: 40px;
+		padding-top: 300px;
+	}
+	#deux{
+	padding-top: 200px;
+	padding-left: 10px;
+	}
+	#un{
+		padding-left: 20px;
+	}
+	#year{
+		padding-left: 30px;
+	}
+	#proclaim{
+		padding-left: 60px;
+		transform: rotate(9deg);
+	}
+	#hope{
+		padding-left: 30px;
+		padding-bottom: 50px;
+	}
+	#trois{
+		padding-left: 70px;
+	}
+	#natural{
+		padding-left: 30px;
+		margin-top: -350px;
+	}
+	#inverse{
+		padding-left: 50px;
+		padding-top: 400px;
+	}
+	#superstition{
+		padding-left: 60px;
+		padding-top: 130px;
+		padding-bottom: 50px
+	}
+	#quatre{
+		padding-left: 80px;
+	}
+	#combine{
+		padding-left: 80px;
+		padding-top: 300px;
+		transform: rotate(9deg);
+	}
+	#task{
+		padding-left: 50px;
+		padding-top: 300px;
 
+	}
+	#written{
+		padding-left: 70px;
+		padding-top: 300px;
+	}
 }
 
