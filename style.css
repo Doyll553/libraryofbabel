@@ -46,6 +46,9 @@ p{
 	max-width: 845px;
 	min-width: 845px;
 }
+#container{
+	z-index: 30;
+}
 #one{
 	background-image: url("images/exclude.png");
 	z-index: -10;
@@ -72,7 +75,7 @@ p{
   	background-size: 100vw 100vh;
 }
 .four{
-	background-image: url("images/circle.png");
+	background-image: url("images/t2.png");
 	z-index: -10;
 	background-repeat: no-repeat;
   	background-attachment: fixed;
