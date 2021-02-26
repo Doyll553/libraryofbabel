@@ -29,6 +29,7 @@ h1{
 	font-size: 140px;
 	max-width: 1000px;
 	line-height: 105%;
+	white-space: nowrap;
 }
 a{
 	color: black;
@@ -43,6 +44,7 @@ p{
 	font-size: 25px;
 	line-height: 140%;
 	max-width: 845px;
+	min-width: 845px;
 }
 #By{
 	padding-top: 50px;
@@ -51,11 +53,11 @@ p{
 }
 #title{
 	padding-top: 200px;
-	padding-left: 380px;
+	padding-left: 280px;
  	transform: rotate(-23deg);
 }
 #The{
-	padding-left: 380px;
+	padding-left: 280px;
  	transform: rotate(-23deg);
 }
 #Like{
@@ -69,7 +71,7 @@ p{
 	transform: rotate(-30deg);
 }*/
 #lib{
-	padding-left: 700px;
+	padding-left: 450px;
 	padding-top: 450px;
 	transform: rotate(23deg);
 }
@@ -93,12 +95,12 @@ p{
 	transform: rotate(-6deg);
 }
 #proclaim{
-	padding-left: 450px;
+	padding-left: 350px;
 	padding-top: 500px;
 	transform: rotate(30deg);
 }
 #hope{
-	padding-left: 550px;
+	padding-left: 450px;
 	transform: rotate(-12deg)
 }
 /*#un{
@@ -169,7 +171,8 @@ p{
 	}
 	p{
 		font-size: 12px;
-		max-width: 600px;
+		max-width: 200px;
+		min-width: 300px
 	}
 	h1{
 		font-size: 30px;
@@ -177,11 +180,27 @@ p{
 	}
 	a{
 		font-size: 100px;
+		padding-left: 20px;
 	}
 	.rotate{
 		width: 50%;
 		padding-left: 30px;
 
+	}
+	#title{
+		padding-top: 20px;
+		padding-left: 30px;
+	}
+	#By{
+		padding-top: 100px;
+		padding-left:20px;
+	}
+	#The{
+		padding-left: 70px;
+		margin-top: -30px; 
+	}
+	#Like{
+		padding-left: 60px;
 	}
 
 }
