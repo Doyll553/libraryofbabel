@@ -237,6 +237,7 @@ p{
 	p{
 		font-size: 14px;
 		width: 50px;
+		min-width: 300px;
 	}
 	h1{
 		font-size: 50px;
@@ -253,7 +254,7 @@ p{
 }
 	#cinq{
 		font-size: 200px;
-		padding-left: 30px;
+		padding-left: 50px;
 	}
 	.rotate{
 		width: 50%;
@@ -268,10 +269,11 @@ p{
 	#By{
 		padding-top: 100px;
 		padding-left:20px;
+		min-width: 500px;
 	}
 	#The{
-		padding-left: 30px;
-		margin-top: -160px; 
+		padding-left: 60px;
+		margin-top: -50px; 
 		transform: rotate(-9deg);
 	}
 	#Like{
@@ -279,16 +281,17 @@ p{
 		padding-top: 200px;
 	}
 	#lib{
-		padding-left: 80px;
+		padding-left: 90px;
 		padding-top: 450px;
-		transform: rotate(23deg);
+		transform: rotate(9deg);
 	}
 	#ortho{
-		padding-left: 60px;
+		padding-left: 90px;
 		}
 	#long{
-		padding-left: 40px;
+		padding-left: 60px;
 		padding-top: 300px;
+		transform: rotate(9deg);
 	}
 	#deux{
 	padding-top: 200px;
@@ -301,11 +304,11 @@ p{
 		padding-left: 30px;
 	}
 	#proclaim{
-		padding-left: 60px;
+		padding-left: 90px;
 		transform: rotate(9deg);
 	}
 	#hope{
-		padding-left: 30px;
+		padding-left: 50px;
 		padding-bottom: 50px;
 	}
 	#trois{
@@ -316,13 +319,13 @@ p{
 		margin-top: -350px;
 	}
 	#inverse{
-		padding-left: 50px;
+		padding-left: 80px;
 		padding-top: 400px;
 	}
 	#superstition{
-		padding-left: 60px;
+		padding-left: 80px;
 		padding-top: 130px;
-		padding-bottom: 50px
+		transform: rotate(-8deg);
 	}
 	#quatre{
 		padding-left: 80px;
@@ -338,8 +341,11 @@ p{
 
 	}
 	#written{
-		padding-left: 70px;
+		padding-left: 200px;
 		padding-top: 300px;
+	}
+	#quatre{
+		padding-bottom: 100px;
 	}
 }
 
